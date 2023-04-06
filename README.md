@@ -1,3 +1,9 @@
+# Karlovo to do:
+- Vymyslet lektvary 
+- Vymyslet podzemí
+- Vymyslet příběh
+- Vše zkontrolovat
+
 # Text-based D&D hra
 
 ## Concept
